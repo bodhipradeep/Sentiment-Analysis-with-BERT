@@ -16,9 +16,17 @@ Enter a sentence → Predict sentiment in real time
 
 ### 🖼️ Sample Screenshots
 Input Example
-<img src="https://github.com/user-attachments/assets/241d2037-fc56-4860-a749-ab91ffbc9ed9" width="45%"/> <img src="https://github.com/user-attachments/assets/edf3bd8b-db77-4a3b-8d29-d09122445b41" width="45%"/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/241d2037-fc56-4860-a749-ab91ffbc9ed9" width="45%"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/edf3bd8b-db77-4a3b-8d29-d09122445b41" width="45%"/>
+</p>
 Output Predictions
-<img src="https://github.com/user-attachments/assets/3dc211af-d600-4727-82f8-31387faed1ad" width="45%"/> <img src="https://github.com/user-attachments/assets/c7b9f916-0b80-4072-b824-7793a094b2f2" width="45%"/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3dc211af-d600-4727-82f8-31387faed1ad" width="45%"/> 
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/c7b9f916-0b80-4072-b824-7793a094b2f2" width="45%"/>
+</p>
 
 ---
 ## 🔧 Key Features
