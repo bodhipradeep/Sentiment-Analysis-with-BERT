@@ -72,8 +72,8 @@ eval_steps_per_second = 51.0
 ## 📂 Project Structure
 ```bash
 ├── Data   # Dataset
-|   ├── twitter_training.csv  
-|   └── twitter_validation.csv
+    ├── twitter_training.csv  
+    └── twitter_validation.csv
 ├── bert_sentiment.ipynb   # End‑to‑end BERT fine‑tuning workflow
 ├── distilbert_test.ipynb  # Distilbert test notebook
 ├── Dockerfile             # Docker File
